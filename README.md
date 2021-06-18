@@ -1,6 +1,14 @@
-# New Project
+# New Hyperapp Project
+[![npm version](https://badge.fury.io/js/haunted-snowpack.svg)](https://badge.fury.io/js/haunted-snowpack)
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+
+Create a new project with:
+```bash
+npx create-snowpack-app app-name --template haunted-snowpack
+# or
+yarn create snowpack-app app-name --template haunted-snowpack 
+```
 
 ## Available Scripts
 
@@ -16,11 +24,3 @@ You will also see any lint errors in the console.
 
 Builds the app for production to the `dist/` folder.
 It correctly bundles the app in production mode and optimizes the build for the best performance.
-
-## Directives
-
-In case you need to add a directive like `classMap` you should add the extension to the import:
-
-```
-import { classMap } from "lit-html/directives/class-map.js";
-```

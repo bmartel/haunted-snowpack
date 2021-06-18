@@ -1,6 +1,6 @@
 {
   "name": "haunted-snowpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "A preconfigured template for Snowpack with TypeScript and Haunted WebComponents",
   "scripts": {
