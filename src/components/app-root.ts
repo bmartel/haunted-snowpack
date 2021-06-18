@@ -32,7 +32,7 @@ function App({ title: _title }: AppProps) {
     </style>
     <div class="wrapper">
       <h1>${title}</h1>
-      <p>Edit <code>src/app-root.ts</code> and save to reload.</p>
+      <p>Edit <code>src/components/app-root.ts</code> and save to reload.</p>
       <a
         class="link"
         href="https://github.com/matthewp/haunted"
