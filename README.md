@@ -1,4 +1,4 @@
-# New Hyperapp Project
+# New Haunted Project
 [![npm version](https://badge.fury.io/js/haunted-snowpack.svg)](https://badge.fury.io/js/haunted-snowpack)
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
