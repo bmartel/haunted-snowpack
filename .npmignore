@@ -1,3 +1,6 @@
 .build
+.snowpack
 build
 web_modules
+*.crt
+*.key

@@ -1,1 +1,2 @@
-import './components/app-root';
+import '@/components/app-root';
+import '@/register-sw'
